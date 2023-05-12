@@ -32,3 +32,18 @@ Here Table Widgets are created based on the number of processes and number of re
 ![Second Window Filled](/Screenshot/Second_Window_Filled.png "Second Window Filled")
 
 Then after filling the tables with data we click on "***Next***" to take us to the third window
+## Third Window - Take Inputs 3
+Here Are Another table widgets but it's advised to set all the cells here in 0 as no test were done with values in those table widgets
+
+![Third Window](/Screenshot/Third_Window.png "Third Window")
+
+### Table Widgets
+* **Available Rescources** : Takes the inputs for the available rescources for the processes
+* **Rescources Requested** : Takes the inputs for the number of rescources requested by a certain process
+### Combo Box
+* **Process Requesting** : Define the process that is requesting rescources
+
+
+
+## Fourth Window - Finalizing The Tables for calculations
+Here the available rescources for the process and the need table are calculated and displayed
