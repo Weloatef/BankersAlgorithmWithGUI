@@ -25,6 +25,10 @@ Here Table Widgets are created based on the number of processes and number of re
 ![Second Window](/Screenshot/Second_Window.png "Second Window")
 
 ### Table Widgets
-* Maximum Need : its takes the inputs for the maximum need of each process for every resource
-* Current Allocation : here it takes the inputs for the currently allocated rescource for every process
-* 
+* **Maximum Need** : Takes the inputs for the maximum need of each process for every resource
+* **Current Allocation** : Takes the inputs for the currently allocated rescource for every process
+* **Total Rescources** :Takes The inputs for the total rescources the system has
+
+![Second Window Filled](/Screenshot/Second_Window_Filled.png "Second Window Filled")
+
+
