@@ -66,7 +66,7 @@ After Checking the tables click (***Output***) to Check whether the system is sa
 Here The System checks whether it's safe for the process to take rescources or not and if it's safe the sequence is displayed in the output box and a message appears to show that the access is granted & if the system isn't safe then a message box appears and tells the user that it isn't safe
 ### Safe
 
-![Fifth Window](/Screenshot/Fifth_Window.png "Fifth Window")
+![Final Window](/Screenshot/Final_Window.png "Final Window")
 
 ### Unsafe
 
