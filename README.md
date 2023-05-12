@@ -4,6 +4,7 @@ This is an implementation of The Banker's Algorithm using Python Which is a reso
 Visual Studio Code & Python 3.10 or higher
 # Installation
 **This is a Python file and it is recommended to run it in Visual Studio Code since it was initially created on it so here are the steps:**
+
 1-Click on [VS Code](https://code.visualstudio.com/Download) to download it
 2-Click on [Python](https://www.python.org/downloads/) to download any version you want **Note: it is recommended to use Python 3.10 or Higher**
 3-Open VS Code and Choose the Python Interpeter as your Python version
