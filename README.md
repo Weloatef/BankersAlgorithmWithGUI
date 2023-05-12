@@ -17,6 +17,7 @@ This is the initial window for the program it will ask you to enter the number o
 ![First Window](/Screenshot/First_Window.png "First Window")
 
 After you fill the inputs you click on "***Next***" so it can the take you to the next window and save the number of processes and rescourses
+
 ***Note :*** **Exception Handling is preformed on all the cells to make sure the values taken are positive integers only (Numbers only,non-negative values,non-null cells)**
 
 ![First Window Filled](/Screenshot/First_Window_Filled.png "First Window Filled")
@@ -33,6 +34,7 @@ Here Table Widgets are created based on the number of processes and number of re
 ![Second Window Filled](/Screenshot/Second_Window_Filled.png "Second Window Filled")
 
 Then after filling the tables with data we click on "***Next***" to take us to the third window
+
 ***Note :*** **Exception Handling is preformed on all the cells to make sure the values taken are positive integers only (Numbers only,non-negative values,non-null cells)**
 ## Third Window - Take Inputs 3
 Here Are Another table widgets but it's advised to set all the cells here in 0 as no test were done with values in those table widgets
@@ -46,7 +48,26 @@ Here Are Another table widgets but it's advised to set all the cells here in 0 a
 * **Process Requesting** : Define the process that is requesting rescources
 
 After Filling the tables click on "***Check***" to calculate the available rescources and need tables in the next window
+
 ***Note :*** **Exception Handling is preformed on all the cells to make sure the values taken are positive integers only (Numbers only,non-negative values,non-null cells)**
 
 ## Fourth Window - Finalizing The Tables for calculations
 Here the available rescources for the process and the need table are calculated and displayed
+
+![Fourth Window](/Screenshot/Fourth_Window.png "Fourth Window")
+
+### Table Widgets
+* **Available Rescources** : The Available Rescources for the processes are displayed here after the calculation (***Available Rescources = Total Rescources - Current Allocation***)
+* **Need Table** : The Need Table is displayed which represents the remaining need of each process for each rescource after it was calculated (***Need Table = Maximum Need - Current Allocation***)
+
+After Checking the tables click (***Output***) to Check whether the system is safe or not and see the process sequence
+
+## Fifth Window - Display Output
+Here The System checks whether it's safe for the process to take rescources or not and if it's safe the sequence is displayed in the output box and a message appears to show that the access is granted & if the system isn't safe then a message box appears and tells the user that it isn't safe
+### Safe
+
+![Fifth Window](/Screenshot/Fifth_Window.png "Fifth Window")
+
+### Unsafe
+
+
