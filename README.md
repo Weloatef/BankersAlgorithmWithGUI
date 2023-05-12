@@ -16,7 +16,7 @@ This is the initial window for the program it will ask you to enter the number o
 
 ![First Window](/Screenshot/First_Window.png "First Window")
 
-After you fill the inputs you click on next so it can the take you to the next window and save the number of processes and rescourses
+After you fill the inputs you click on "***Next***" so it can the take you to the next window and save the number of processes and rescourses
 
 ![First Window Filled](/Screenshot/First_Window_Filled.png "First Window Filled")
 ## Second Window - Take Inputs 2
@@ -31,4 +31,4 @@ Here Table Widgets are created based on the number of processes and number of re
 
 ![Second Window Filled](/Screenshot/Second_Window_Filled.png "Second Window Filled")
 
-Then after filling the tables with data we click on 
+Then after filling the tables with data we click on "***Next***" to take us to the third window
