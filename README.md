@@ -11,4 +11,4 @@ Visual Studio Code & Python 3.10 or higher
 * Open The Extensions on the left bar and make sure both ***"Python"*** & ***"PYQT Integeration"*** are both installed then restart VS Code
 * Open The Python file in VS Code and run it 
 # How To Use
-![Alt text](BankersAlgorithmWithGUI/Screenshot/First_Window "First Window")
+![Alt text](BankersAlgorithmWithGUI/Screenshot/First_Window.png "First Window")
