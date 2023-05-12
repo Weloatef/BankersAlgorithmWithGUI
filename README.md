@@ -70,4 +70,8 @@ Here The System checks whether it's safe for the process to take rescources or n
 
 ### Unsafe
 
+![Final2 Window](/Screenshot/Final2_Window.png "Final2 Window")
 
+After you finish the checking and the results are shown you can then click "***Restart***" to restart the whole algorithm from the beginning
+# Credits
+This Program was created by Walid Atef
