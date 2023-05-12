@@ -11,9 +11,12 @@ Visual Studio Code & Python 3.10 or higher
 * Open The Extensions on the left bar and make sure both ***"Python"*** & ***"PYQT Integeration"*** are both installed then restart VS Code
 * Open The Python file in VS Code and run it 
 # How To Use
-## First Window 
+## First Window - Data Entry
 ![First Window](/Screenshot/First_Window.png "First Window")
+
 This is the initial window for the program it will ask you to enter the number of processes and number of rescources to get started
+
 ![First Window](/Screenshot/First_Window_Filled.png "First Window")
+
 After you fill the inputs you click on next so it can the take you to the next window and save the number of processes and rescourses
 
