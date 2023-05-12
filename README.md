@@ -7,9 +7,9 @@ Visual Studio Code & Python 3.10 or higher
 1. Click on **[VS Code](https://code.visualstudio.com/Download)** to download it
 2. Click on **[Python](https://www.python.org/downloads/)** to download any version you want   "***Note: it is recommended to use Python 3.10 or Higher***"
 3. Open VS Code and Choose the Python Interpeter as your Python version
-* Open The Console and type ***"pip install pyqt5"*** when it is finished type ***"pip install pyqt5.tools"***
-* Open The Extensions on the left bar and make sure both ***"Python"*** & ***"PYQT Integeration"*** are both installed then restart VS Code
-* Open The Python file in VS Code and run it 
+4. Open The Console and type ***"pip install pyqt5"*** when it is finished type ***"pip install pyqt5.tools"***
+5. Open The Extensions on the left bar and make sure both ***"Python"*** & ***"PYQT Integeration"*** are both installed then restart VS Code
+6. Open The Python file in VS Code and run it 
 # How To Use
 ## First Window - Take Inputs
 This is the initial window for the program it will ask you to enter the number of processes and number of rescources to get started
